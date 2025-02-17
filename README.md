@@ -7,3 +7,4 @@ This repository will hold assignments.
 # About me
 ## My Interests
 ## Websites I Recommend
+ (Places to Read)[https://www.placestoread.xyz]
